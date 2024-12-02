@@ -4,6 +4,7 @@
 ## 환경구축
 
 **selenium Chrome Driver**
+https://developer.chrome.com/docs/chromedriver/get-started?hl=ko
 
 **python**
 - numpy
